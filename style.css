@@ -1,0 +1,15 @@
+body {
+       margin-left: 100px;
+       background-color: light red;
+}
+
+h1 {
+       color: white;
+       font-family: “Open Sans”, sans-relief;
+       font-size: 50px;
+}
+
+P {
+      font-size : 25px;
+      color : bleu; 
+}
